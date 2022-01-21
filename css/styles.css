@@ -372,8 +372,7 @@ h2, .h2 {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
-	background: linear-gradient(to right top, rgb(5, 25, 55), rgb(95, 102, 0), #006c8a, #009999, #00c595);
-color:rgb(252, 179, 15);
+	background: url('../images/bg_page.jpg'),rgb(27, 27, 27);
 }
 .banner-container:after {
     /* position: absolute; */
